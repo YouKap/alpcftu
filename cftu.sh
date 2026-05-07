@@ -8,7 +8,7 @@ BLUE='\033[0;36m'
 CYAN='\033[0;36m'
 PLAIN='\033[0m'
 
-SCRIPT_URL="https://raw.githubusercontent.com/YouKap/cftu/main/cftu.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/YouKap/alpcftu/main/cftu.sh"
 CF_DIR="/etc/cloudflared"
 CREDS_DIR="/root/.cloudflared"
 
