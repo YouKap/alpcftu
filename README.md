@@ -6,8 +6,8 @@
 
 請使用 `root` 權限在終端機執行以下命令：
 
-```bash
-curl -sSL https://raw.githubusercontent.com/YouKap/alpcftu/main/cftu.sh | sudo bash
+```
+apk update && apk add --no-cache bash curl ca-certificates && curl -sSL https://raw.githubusercontent.com/YouKap/alpcftu/main/cftu.sh | bash
 ```
 
 
